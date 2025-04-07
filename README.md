@@ -21,16 +21,9 @@ This project demonstrates a simple SQL database design for a flower shop. It was
 
 ### 🧱 Technologies
 
-- SQL
-- PostgreSQL (or MySQL — specify what you used)
-
----
-
-### 📂 File Structure
-
-- `schema/create_schema.sql` – SQL script for database and table creation
-- `inserts/insert_data.sql` – Example `INSERT INTO` statements
-- `screenshots/interface.png` – Image of the interface/schema diagram
+- MySQL
+- SQL DDL & DML (schema + data)
+- Visual schema diagram
 
 ---
 
